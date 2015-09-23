@@ -1,0 +1,5 @@
+(global-company-mode)
+(require 'elixir-mode)
+(require 'alchemist)
+(disable-theme 'zenburn)
+(setq prelude-theme 'cyberpunk)
